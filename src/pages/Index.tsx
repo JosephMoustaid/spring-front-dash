@@ -91,10 +91,10 @@ const Index = () => {
             <a href="#" className="text-foreground hover:text-primary transition-colors font-medium">
               Découvrir
             </a>
-            <a href="#" className="text-foreground hover:text-primary transition-colors font-medium">
+            <a href="reservations" className="text-foreground hover:text-primary transition-colors font-medium">
               Mes Réservations
             </a>
-            <a href="#" className="text-foreground hover:text-primary transition-colors font-medium">
+            <a href="signin" className="text-foreground hover:text-primary transition-colors font-medium">
               Connexion
             </a>
           </nav>
